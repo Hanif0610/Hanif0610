@@ -1,7 +1,6 @@
 - 🔭 I'm currently attending Daedeok Software Meister High School.
 - 🌱 I’m currently learning Java(SpringBoot), JavaScript(Node.js).
 - 🥅 2020 Goals: Become the master of Java!
-- ⚡ Fun fact: I love philosophy and meditation!
 
 ### Languages and Tools:
 
