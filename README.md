@@ -9,19 +9,8 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Daedeok Software Meister High School.  
-  
-
-- 🌱 I’m currently learning SpringBoot & React  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+- 🔭 I’m currently working on  Daedeok Software Meister High School. 
+- 🌱 I’m currently learning SpringBoot & React 
 
 <br/>  
 
